@@ -1,0 +1,13 @@
+name: research
+title: research
+username:
+account: cookie
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 667770
+bundleId: 1838059
+url: https://cookie.shinyapps.io/research/
+when: 1548485599.06543
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 31.jpg|double.jpg|eating.jpg|graduate.png|happy.jpg|heart.jpg|paper.png|readme.md|self.jpg
